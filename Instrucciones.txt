@@ -1,0 +1,41 @@
+primeramente para poder montar el servicion de front-end se tendria que instalar AngularCli, 
+pero para instalar AngularCli se requiere istallar Node.js que se puede descargar directamente 
+desde el sitio oficial recomiendo descargar el lts, puesto que tambien se requiere para habilitar 
+el servidor que vamos a utilizar
+
+
+
+paso 1
+	instalar node.js
+
+paso 2 
+	instalar angular
+
+paso 3 
+	dirigirse al inicio de windows y buscar la "Node.js command prompt" abrir 2 instancias de esta aplicacion
+	en modo administrador
+
+paso 4 
+	en la command prompt de node dirigirse a la carpeta donde se encuentra el proyecto del servidor
+	y ejecutar el comando "node index.js"
+
+paso 5 
+	en la segunda instancion de la command prompt de node dirigirse a la carpeta donde se encuentra el proyecto
+	de angular y ejecutar el comando "ng serve"
+
+paso 6 
+	ya que este corriendo el servicio de angular dirigirse al navegador y poner en la URL localhost:4200 y ya se 
+	abrira el sitio de angular para la prueba
+
+
+ para poder logearse en el sitio requiere el usuario : tester y la contraseña : prueba123
+
+para realizar la prueba del jwt esta el boton TRY TOKEN!! que se muestra despues de logearse, se requiere que abra la
+consola para poder visualizar la informacion que genera en base a la peticion y validacion del JWT
+
+
+
+
+
+
+
