@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "jose": "^1.16.2",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
